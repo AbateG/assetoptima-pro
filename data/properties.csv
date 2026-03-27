@@ -1,0 +1,6 @@
+Property_ID,Property_Name,Market,Units,Acquisition_Date,Purchase_Price,Current_Value,Stabilized_Occupancy,Current_Occupancy,Avg_Rent_per_Unit,Value_Add_Phase
+PROP001,Asset_Avalon,Northeast,240,2022-03-15,34500000,37200000,92,88,1425,Renovation_Complete
+PROP002,Asset_Birchwood,Southeast,180,2023-01-10,19800000,20100000,90,85,1180,Lease_Up
+PROP003,Asset_Caldwell,Midwest,320,2021-11-05,29600000,33400000,94,91,1350,Stabilized
+PROP004,Asset_Dunmore,Southwest,150,2024-02-20,15200000,15800000,89,82,1050,Renovation_In_Progress
+PROP005,Asset_Everett,West_Coast,275,2022-07-12,47300000,51600000,93,90,1580,Stabilized

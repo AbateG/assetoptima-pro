@@ -1,0 +1,21 @@
+Property_ID,Initiative_ID,Initiative,Category,Target_Completion,Status,Percent_Complete,Budget,Actual_Spend,Expected_NOI_Lift,Owner,Risk_Level,Notes
+PROP001,BP001-A,Unit_Interior_Renovations_Phase1,Renovation,2024-12-31,Complete,100,380000,394200,72000,PM_Team_A,Low,180 of 240 units renovated at average \$2190/unit; achieved \$95 avg rent premium
+PROP001,BP001-B,Unit_Interior_Renovations_Phase2,Renovation,2025-06-30,In_Progress,60,180000,108400,38000,PM_Team_A,Low,Remaining 60 units; on schedule
+PROP001,BP001-C,Amenity_Upgrades_Clubhouse,CapEx,2024-09-30,Complete,100,95000,98400,18000,PM_Team_A,Low,Fitness center and coworking space; 3.4% budget overrun
+PROP001,BP001-D,RUBS_Utility_Billing,Operational,2024-06-30,Complete,100,12000,11800,24000,PM_Team_A,Low,Full implementation complete; \$100/unit/month income recovery
+PROP001,BP001-E,Exterior_Landscaping,CapEx,2025-09-30,Not_Started,0,55000,0,9000,PM_Team_A,Low,Scheduled for Q3 2025
+PROP002,BP002-A,Lease_Up_Marketing_Campaign,Leasing,2025-03-31,In_Progress,85,35000,29800,0,PM_Team_B,Medium,Social media and locator network spend; 87% vs 90% target occupancy
+PROP002,BP002-B,Unit_Turns_Renovation,Renovation,2025-08-31,In_Progress,42,280000,121600,52000,PM_Team_B,High,76 of 180 units renovated; pace behind schedule by 6 weeks
+PROP002,BP002-C,Concession_Reduction_Plan,Leasing,2025-06-30,In_Progress,55,8000,4400,16000,PM_Team_B,Medium,Targeting reduction from avg 2.1 months to 0.8 months concession
+PROP002,BP002-D,Amenity_Refresh,CapEx,2025-12-31,Not_Started,0,42000,0,7000,PM_Team_B,Low,Pending stabilization
+PROP003,BP003-A,Expense_Reduction_Payroll_Optimization,Operational,2025-06-30,In_Progress,80,8000,6400,31000,PM_Team_C,Low,Shared staffing model with adjacent property reducing payroll by \$18k annually
+PROP003,BP003-B,Smart_Home_Technology_Upgrades,CapEx,2025-09-30,In_Progress,25,96000,24100,22000,PM_Team_C,Low,Smart locks and thermostats; 80 units completed of 320
+PROP003,BP003-C,Green_Certification_LEED,Operational,2026-03-31,In_Progress,15,28000,4200,14000,PM_Team_C,Low,Long-cycle initiative; on track
+PROP004,BP004-A,Major_Unit_Renovation_Program,Renovation,2025-12-31,In_Progress,32,620000,206400,110000,PM_Team_D,High,48 of 150 units complete; pace significantly behind; cost per unit \$4300 vs \$4133 budget
+PROP004,BP004-B,Exterior_Rebranding_Signage,CapEx,2025-09-30,Not_Started,0,45000,0,8000,PM_Team_D,Medium,Awaiting renovation milestone before starting
+PROP004,BP004-C,Property_Management_Transition,Operational,2025-04-30,In_Progress,70,15000,10500,38000,PM_Team_D,High,Transitioning from current PM to new operator; critical path item
+PROP004,BP004-D,Utility_Submetering_Installation,Operational,2025-12-31,Not_Started,0,32000,0,28000,PM_Team_D,Medium,High-value initiative; scheduled for H2 2025
+PROP005,BP005-A,Premium_Unit_Upgrades_Penthouse,Renovation,2025-03-31,Complete,100,180000,176400,42000,PM_Team_E,Low,22 premium units completed at \$8018/unit; \$191/unit rent premium achieved
+PROP005,BP005-B,EV_Charging_Station_Installation,CapEx,2025-06-30,In_Progress,90,68000,61200,12000,PM_Team_E,Low,40 of 44 stations operational
+PROP005,BP005-C,Solar_Panel_Installation_Common_Areas,CapEx,2026-06-30,In_Progress,10,145000,14500,26000,PM_Team_E,Low,Long-cycle capital project; on schedule
+PROP005,BP005-D,Concierge_Services_Launch,Operational,2025-06-30,In_Progress,60,22000,13200,18000,PM_Team_E,Low,Package management and dry cleaning partnerships active

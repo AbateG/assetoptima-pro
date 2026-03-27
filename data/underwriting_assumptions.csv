@@ -1,0 +1,6 @@
+Property_ID,Underwritten_Occupancy,Underwritten_Rent_Growth_Pct,Underwritten_Expense_Growth_Pct,Underwritten_Exit_Cap_Rate,Underwritten_NOI_Year1,Underwritten_IRR,Target_Hold_Years,Underwritten_Purchase_Cap_Rate
+PROP001,92,3.5,2.5,5.25,2090000,14.2,5,6.06
+PROP002,90,4.0,2.5,5.50,1540000,16.8,5,7.78
+PROP003,94,3.0,2.0,5.00,2880000,13.1,7,9.73
+PROP004,89,4.5,3.0,5.75,1180000,18.5,5,7.76
+PROP005,93,3.5,2.0,4.75,3820000,15.3,7,8.08
