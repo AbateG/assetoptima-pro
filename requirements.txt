@@ -10,3 +10,6 @@ xlsxwriter==3.2.9
 pillow==12.1.1
 GitPython==3.1.46
 pydantic==2.10.6
+pydantic-core==2.27.1
+annotated-types==0.7.0
+typing-extensions==4.15.0
